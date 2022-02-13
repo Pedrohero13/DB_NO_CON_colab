@@ -1,4 +1,4 @@
 # Laboratorio de google colab con python y csv 
 
-## Pedro de Jesus Hernandez rojas
+## Pedro de Jesús Hernández Rojas
 ## s19004903
